@@ -1,11 +1,13 @@
 about:
-  description: TUI for chezmoi
+  description:
+  |
+    TUI for chezmoi
   license: MIT
   homepage: https://github.com/djetelina/cheznav
   head: b543818
   archived: false
   latestVersion: v0.3.0
-  collectedAt: 2026-09-04T04:28:22Z
+  collectedAt: 2026-09-04T19:33:08Z
 timeline:
   created: 2026-04-02
   lastCommit: 2026-07-23
@@ -16,12 +18,12 @@ popularity:
   fork: 2
   release: 4
   contributor: 2
-  pullRequest: 1
+  pullRequest: 8
   issue: 1
 language:
   Python: 113463
   Just: 194
-totalLine: 113657
+totalBytes: 113657
 recent:
   last30d:
     since: 2026-08-05
@@ -31,6 +33,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
   last90d:
     since: 2026-06-06
     release: 1
@@ -55,3 +65,21 @@ recent:
     closedIssue: 1
     openIssue: 0
     commit: 27
+  last720d:
+    since: 2024-09-14
+    release: 4
+    mergedPR: 7
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 27
+total:
+  release: 4
+  mergedPR: 7
+  openPR: 1
+  closedIssue: 1
+  openIssue: 0
+  commit: 27
+---
+---
+
