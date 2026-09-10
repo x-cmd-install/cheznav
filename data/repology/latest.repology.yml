@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: cheznav
+  binname: cheznav
+  visiblename: cheznav
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: unique
+  summary: TUI for chezmoi
+  maintainers:
+    - jtl@aur
+  licenses:
+    - MIT
