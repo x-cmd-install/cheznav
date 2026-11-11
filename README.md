@@ -36,22 +36,22 @@ Total: **5,304** lines of code across **37** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 120 · **Forks**: 2 · **Open issues**: 3 · **Contributors**: 2
+- **Stars**: 121 · **Forks**: 2 · **Open issues**: 9 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 7 · **Open PRs**: 1 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 27
+- **Releases**: 4 · **Merged PRs**: 7 · **Open PRs**: 1 · **Closed issues**: 1 · **Open issues**: 8 · **Commits**: 27
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last180d | 2026-05-14 | 1 | 5 | 1 | 1 | 2 | 10 |
-| 360d | 2025-11-15 | 4 | 7 | 1 | 1 | 2 | 27 |
-| last720d | 2024-11-20 | 4 | 7 | 1 | 1 | 2 | 27 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 7 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 0 | 0 | 7 | 0 |
+| 90d | 2026-08-13 | 0 | 0 | 0 | 0 | 8 | 0 |
+| last180d | 2026-05-15 | 1 | 5 | 1 | 0 | 8 | 10 |
+| 360d | 2025-11-16 | 4 | 7 | 1 | 1 | 8 | 27 |
+| last720d | 2024-11-21 | 4 | 7 | 1 | 1 | 8 | 27 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for cheznav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:39:38Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:14:38Z._
