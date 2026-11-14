@@ -46,12 +46,12 @@ Total: **5,304** lines of code across **37** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 7 | 0 |
-| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 7 | 0 |
-| 90d | 2026-08-15 | 0 | 0 | 0 | 0 | 8 | 0 |
-| last180d | 2026-05-17 | 1 | 5 | 1 | 0 | 8 | 10 |
-| 360d | 2025-11-18 | 4 | 7 | 1 | 1 | 8 | 27 |
-| last720d | 2024-11-23 | 4 | 7 | 1 | 1 | 8 | 27 |
+| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 7 | 0 |
+| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 7 | 0 |
+| 90d | 2026-08-16 | 0 | 0 | 0 | 0 | 8 | 0 |
+| last180d | 2026-05-18 | 1 | 5 | 1 | 0 | 8 | 10 |
+| 360d | 2025-11-19 | 4 | 7 | 1 | 1 | 8 | 27 |
+| last720d | 2024-11-24 | 4 | 7 | 1 | 1 | 8 | 27 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for cheznav lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:16:33Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:11:06Z._
